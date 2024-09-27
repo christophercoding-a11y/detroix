@@ -10,11 +10,11 @@
     --date2: #bc6142;
     --date3: #bd425e;
     --footerSec2: #0b1016;
-    --grad: radial-gradient [
+    --grad: radial-gradient(
         top center,
         #38587e,
-        #31620
-    ];
-    --prim: #131c29;
-    --sec:
+        #031620
+
+    );
+    
 }
